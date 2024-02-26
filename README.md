@@ -1,2 +1,3 @@
-# habit-tracker
-Small habit tracker -- just for testing purposes
+# Habit Tracker
+
+A small habit tracker just for coding training purposes
